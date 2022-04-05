@@ -13,7 +13,15 @@ Python est un langage de programmation:
 - Gratuit
 - Open-source[\*](#open-source)
 
+Installation de python:
+- [ ] Sélection et mise en place d'un IDE
+- [ ] Installation de python sur la machine
+- [ ] Lancement d'un fichier de test
+- [ ] Résolution des problèmes
 
+# Résolution des problèmes
+
+1. 1 - [Python](#1-python)
 
 # Dictionnaire
 
