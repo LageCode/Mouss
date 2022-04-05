@@ -43,6 +43,11 @@ Liste non-exhaustive des mots réservés:
 
 ## 3 Les identifiants
 
+Un identifiant est une chaîne de caractères qui sert à nommer une entité. <br>
+Règles de nomenclature:
+  - a
+  - b
+
 |Liste des styles d'écriture|
 |--- |
 |b|
@@ -54,10 +59,6 @@ Liste non-exhaustive des mots réservés:
 |CamelCase|
 |mixedCase|
 |Capitalized_Words_With_Underscores|
-
-Un identifiant est une chaîne de caractères qui sert à nommer une entité. <br>
-Règles de nomenclature:
-  - 
 
 # Problèmes résolus
 
