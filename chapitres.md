@@ -44,21 +44,29 @@ Liste non-exhaustive des mots réservés:
 ## 3 Les identifiants
 
 Un identifiant est une chaîne de caractères qui sert à nommer une entité. <br>
-Règles de nomenclature:
-  - a
-  - b
+Règles de nomenclature: <br>
 
-|Liste des styles d'écriture|
-|--- |
-|b|
-|B|
-|lowercase|
-|lower_case_with_underscores|
-|UPPERCASE|
-|UPPER_CASE_WITH_UNDERSCORES|
-|CamelCase|
-|mixedCase|
-|Capitalized_Words_With_Underscores|
+|Entité|N°|
+|--- |--- |
+|Variable|1, 3, 4|
+|Constante|5, 6|
+|Fonction|3, 4|
+|Classe|7|
+|Méthode|3, 4|
+|Module|3, 4|
+|Package|3|
+
+|N°|Liste des styles d'écriture|
+|--- |--- |
+|1|b|
+|2|B|
+|3|lowercase|
+|4|lower_case_with_underscores|
+|5|UPPERCASE|
+|6|UPPER_CASE_WITH_UNDERSCORES|
+|7|CamelCase|
+|8|mixedCase|
+|9|Capitalized_Words_With_Underscores|
 
 # Problèmes résolus
 
